@@ -1,0 +1,66 @@
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Exercise IKaram Excel.exe
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Exercise IKaram Excel.deps.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Exercise IKaram Excel.runtimeconfig.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Exercise IKaram Excel.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets\msbuild.Exercise IKaram Excel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets\msbuild.build.Exercise IKaram Excel.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exercise IKaram Excel.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exercise IKaram Excel.props
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\scopedcss\bundle\Exercise IKaram Excel.styles.css
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.csproj.CopyComplete
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\refint\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.pdb
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\Exercise IKaram Excel.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\code\dell\web 2\S7  ASP.NET DEPLOYING ON WEB,MIDDLEWARE,and more\Exercise IKaram Excel\obj\Debug\net7.0\ref\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\appsettings.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Exercise IKaram Excel.exe
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Exercise IKaram Excel.deps.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Exercise IKaram Excel.runtimeconfig.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Exercise IKaram Excel.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.csproj.AssemblyReference.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.AssemblyInfoInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.AssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.csproj.CoreCompileInputs.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets\msbuild.Exercise IKaram Excel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets\msbuild.build.Exercise IKaram Excel.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exercise IKaram Excel.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exercise IKaram Excel.props
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\scopedcss\bundle\Exercise IKaram Excel.styles.css
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.csproj.CopyComplete
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\refint\Exercise IKaram Excel.dll
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.pdb
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\Exercise IKaram Excel.genruntimeconfig.cache
+C:\Users\Hazar\Desktop\PROJECTS\.Net\Exercise IKaram Implementation of a class and interface i created (indubitably)\obj\Debug\net7.0\ref\Exercise IKaram Excel.dll
